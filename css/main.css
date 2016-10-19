@@ -14,3 +14,9 @@
 	z-index: -10;
 	width: 50%
 }
+
+.img-center {
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
